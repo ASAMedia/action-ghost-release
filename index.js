@@ -3,7 +3,7 @@ const path = require('path');
 const semver = require('semver');
 const releaseUtils = require('@tryghost/release-utils');
 
-const ORGNAME = 'TryGhost';
+const ORGNAME = 'ASAMedia';
 const basePath = process.env.GITHUB_WORKSPACE || process.cwd();
 const ghostPackageInfo = JSON.parse(fs.readFileSync(path.join(basePath, 'package.json')));
 const changelogPath = path.join(basePath, '.dist', 'changelog.md');
