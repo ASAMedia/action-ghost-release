@@ -1,7 +1,7 @@
 {
   "name": "action-ghost-release",
   "version": "0.0.1",
-  "repository": "git@github.com:TryGhost/action-ghost-release.git",
+  "repository": "git@github.com:ASAMedia/action-ghost-release.git",
   "author": "Ghost Foundation",
   "license": "MIT",
   "main": "index.js",
